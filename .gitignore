@@ -1,5 +1,6 @@
-/Library
-/Logs
-/Temp
+[Ll]ibrary/
+[Ll]ogs/
+[Tt]emp/
+[Uu]serSettings/
 .vsconfig
 *.sln
