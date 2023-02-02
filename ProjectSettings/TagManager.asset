@@ -41,3 +41,18 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Background
+    uniqueID: 3075329471
+    locked: 0
+  - name: RearDecor
+    uniqueID: 2637013747
+    locked: 0
+  - name: Level
+    uniqueID: 741255689
+    locked: 0
+  - name: Hero
+    uniqueID: 2810904025
+    locked: 0
+  - name: Props
+    uniqueID: 2588249715
+    locked: 0
