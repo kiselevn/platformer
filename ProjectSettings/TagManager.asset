@@ -56,3 +56,6 @@ TagManager:
   - name: Props
     uniqueID: 2588249715
     locked: 0
+  - name: FrontDecor
+    uniqueID: 3278654169
+    locked: 0
